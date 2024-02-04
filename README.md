@@ -1,1 +1,2 @@
+# Sampling
 Sampling is a strategy employed to understand a population by studying statistics from a representative subset, eliminating the necessity to examine each individual. To address the initial imbalance in the dataset, which consisted of 763 non-fraudulent cases and only 9 fraudulent cases, an oversampling method was applied. This involved generating additional instances of the minority class (fraudulent cases) to align with the majority class (non-fraudulent cases), resulting in a balanced dataset consolidated into a unified data frame.
